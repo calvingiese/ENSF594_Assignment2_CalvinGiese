@@ -1,6 +1,7 @@
 # ENSF594_Assignment2_CalvinGiese
 
-A command line interface program that prompts the user for content specifications for an array and a method to sort it.
+A command line interface program that prompts the user for array specifications, a sorting algorithm to apply and an output file location for 
+the sorted array to be printed to.
 
 ## Problem Satement
 
